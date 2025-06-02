@@ -10,12 +10,12 @@ A full-stack **BookMyShow** clone that replicates the core features of the origi
    git clone https://github.com/Sotejaswini/Book-My-Show.git
    cd bookmyshow
    ```
-2. **Install frontend dependencies
+2. **Install frontend dependencies**
 ```bash
 cd frontend
 npm install
 ```
-3. **Install backend dependencies
+3. **Install backend dependencies**
 ```bash
 cd ../backend
 npm install
