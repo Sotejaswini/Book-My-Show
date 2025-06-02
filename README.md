@@ -15,7 +15,7 @@ A full-stack **BookMyShow** clone that replicates the core features of the origi
 cd frontend
 npm install
 ```
-3. ***Install backend dependencies
+3. **Install backend dependencies
 ```bash
 cd ../backend
 npm install
